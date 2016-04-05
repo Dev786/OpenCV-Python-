@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>effb98fd-70af-411e-bd8a-08187df31d90</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>videoWriter.py</StartupFile>
+    <StartupFile>drawingInOpenCV.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -26,7 +26,7 @@
     <PtvsTargetsFile>$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets</PtvsTargetsFile>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="videoWriter.py">
+    <Compile Include="drawingInOpenCV.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
